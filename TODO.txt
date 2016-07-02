@@ -1,0 +1,11 @@
+DONE - Fix player disapear at walls
+DONE - Add collision detection system for internal walls
+DONE - Add customizable intro and begin adventure screens
+DONE - Add save functionality
+- Add system for multiple levels
+- Add customizable level description system
+- Add customizable spawnpoints
+- Add invintory system
+- Add combat system
+- Add enemies and ai system
+- Add inventory and item system
