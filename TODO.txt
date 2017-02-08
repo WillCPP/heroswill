@@ -2,7 +2,6 @@ DONE - Fix player disapear at walls
 DONE - Add collision detection system for internal walls
 DONE - Add customizable intro and begin adventure screens
 DONE - Add save functionality
-- Make the code more object orientedish
 - Add system for multiple levels
 - Add customizable level description system
 - Add customizable spawnpoints
